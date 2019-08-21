@@ -13,6 +13,6 @@ The languages i used in my project included mostly the HTML,CSS and JavaScript.
 ## Support and contact details
 This application runs well on fully functioned servers and incase of any changes, you can proceed and identify the mistakes.
 ### License
-MIT License
+MIT License.
 Copyright (c) {year}
 August 19th 2019.
