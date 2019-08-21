@@ -11,6 +11,7 @@ This is a fully stacked operating application and does not need any modification
 
 ## Known Bugs
 As per now there are currently no bugs in the application although there were some technicalities but they were fixed.
+
 ## Technologies Used
 The languages i used in my project included mostly the HTML,CSS and JavaScript.
 ## Support and contact details
